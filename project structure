@@ -1,0 +1,11 @@
+instagram/
+├── app.js
+├── Dockerfile
+├── package.json
+├── public
+│   └── css
+│       └── style.css
+└── views
+    ├── index.ejs
+    ├── login.ejs
+    └── register.ejs
